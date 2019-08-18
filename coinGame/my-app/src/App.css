@@ -1,0 +1,33 @@
+.App {
+	text-align: center;
+}
+
+button {
+	margin: 50px 70px;
+	width: 100px;
+	height: 100px;
+	background-color: purple;
+	font-size: 1.5rem;
+	color: aliceblue;
+	font-style: bold;
+	border-radius: 50%;
+}
+/* 
+button:hover {
+	background-color: red;
+}
+
+.myButtonApp {
+	margin-top: 100px;
+	text-align: center;
+}
+
+.myButtonApp h1 {
+	font-size: 3rem;
+	color: blue;
+}
+
+h2 {
+	color: red;
+	font-style: bold;
+} */

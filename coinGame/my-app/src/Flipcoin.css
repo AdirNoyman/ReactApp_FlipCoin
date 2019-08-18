@@ -1,0 +1,12 @@
+div {
+	text-align: center;
+}
+
+button {
+	margin: 15px auto;
+	border-radius: 10px;
+	width: 200px;
+	font-size: 1.3em;
+	height: 50px;
+	background-color: darkred;
+}
